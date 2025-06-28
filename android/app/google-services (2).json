@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "750245924129",
+    "project_id": "filesphere-ec8a6",
+    "storage_bucket": "filesphere-ec8a6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750245924129:android:9872ed6c9598cc9ba40260",
+        "android_client_info": {
+          "package_name": "com.company.filesphere"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEGIkEXjZ898BELShTBWJ4wLZR3h_XEOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,46 @@
+name: filesphere_sys
+description: A Flutter system for file borrowing and item tracking.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+
+  # ✅ Firebase packages
+  firebase_core: ^2.30.0
+  firebase_auth: ^4.19.1
+  cloud_firestore: ^4.17.2
+  firebase_storage: ^11.7.3
+
+  # 📆 Date & Time Formatting
+  intl: ^0.18.1
+
+  # 🔗 URL Launcher
+  url_launcher: ^6.2.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+  # 🚀 App icon generator
+  flutter_launcher_icons: ^0.13.1
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/logo.png"
+
+flutter:
+  uses-material-design: true
+
+  # 📁 Assets for images and logos
+  assets:
+    - assets/logo.png

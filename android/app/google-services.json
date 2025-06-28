@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "179389055197",
+    "project_id": "filesphere-731f1",
+    "storage_bucket": "filesphere-731f1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179389055197:android:54fe48497966697c3cdb34",
+        "android_client_info": {
+          "package_name": "com.company.filesphere"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB31Jp-CLdfbrz3QoFpLHl2_u0IcAnrOHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179389055197:android:b891213b3eb32a0b3cdb34",
+        "android_client_info": {
+          "package_name": "com.example.filesphere"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB31Jp-CLdfbrz3QoFpLHl2_u0IcAnrOHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179389055197:android:86f652d5b0c2b7ce3cdb34",
+        "android_client_info": {
+          "package_name": "filesphere.example.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB31Jp-CLdfbrz3QoFpLHl2_u0IcAnrOHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
